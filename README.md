@@ -1,5 +1,8 @@
 # Crowdfunding_ETL
 
+# Jupyter Notebook
+The Jupyter notebook is saved in the main folder "ETL_Mini_Project_JGillas_THerbold_KWilliams.ipynb". This contains all code used to create the requested dataframes.
+
 # Resources
 This folder contains all CSV outputs. Here you will find campaign.csv, category.csv, contacts.csv, and subcategory.csv. These files are the outputs of each dataframe that was created.
 
